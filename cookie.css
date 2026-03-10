@@ -512,7 +512,7 @@
   height: 100%;
   background-color: var(--backdropBackgroundColor);
   backdrop-filter: blur(var(--backdropBackgroundBlur));
-  pointer-events: none;
+  pointer-events: all;
 }
 
 /* --------------------------------
