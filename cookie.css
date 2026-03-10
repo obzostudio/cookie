@@ -253,7 +253,7 @@
   overflow: auto;
   width: 800px;
   max-width: calc(100% - 32px);
-  max-height: 100%;
+  max-height: calc(100vh - 32px);
   border: 0px;
   position: fixed;
   bottom: 16px;
