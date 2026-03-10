@@ -567,10 +567,3 @@
     transform: translate(0px, 0px);
   }
 }
-
-#silktide-cookie-banner,
-.silktide-cookie-banner {
-left: 20px !important;
-right: auto !important;
-bottom: 20px !important;
-}
