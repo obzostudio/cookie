@@ -252,13 +252,12 @@
   pointer-events: auto;
   overflow: auto;
   width: 800px;
-  max-width: 100%;
+  max-width: calc(100% - 32px);
   max-height: 100%;
   border: 0px;
   position: fixed;
   bottom: 16px;
   left: 16px;
-  right: 16px;
   transform: translate(0, -20px);
   opacity: 0;
   animation: silktide-slideInUp-center 350ms ease-out forwards;
