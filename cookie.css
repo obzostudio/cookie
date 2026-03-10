@@ -258,6 +258,8 @@
   position: fixed;
   top: 50%;
   left: 50%;
+  bottom: auto;
+  right: auto;
   transform: translate(-50%, -50%);
   opacity: 0;
   animation: silktide-slideInUp-center 350ms ease-out forwards;
